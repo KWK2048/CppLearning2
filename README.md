@@ -1,2 +1,2 @@
 # CppLearning
-c++
+Classical Algorithm by c++ Coding.
